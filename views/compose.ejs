@@ -1,0 +1,15 @@
+<%- include("header") -%>
+<div class="anim">
+    <h1 class="hoome">Compose</h1>
+
+    <form action="/compose" method="post">
+       
+        <input type="text"  class="input" name="title" placeholder="Title of Your Post">
+        <br>
+        <textarea name="post" cols="40" rows="5" class="input1" placeholder="Write Your Post"></textarea>
+        <br>
+    <button type="submit" name="submit" class="button">Publish</button>
+    </form>
+    
+</div>
+<%- include("footer") -%>

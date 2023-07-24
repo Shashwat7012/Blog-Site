@@ -1,0 +1,133 @@
+body{
+    background: #ff00cc; 
+background: -webkit-linear-gradient(to left, #333399, #ff00cc);  
+background: linear-gradient(to left, #333399, #ff00cc); 
+
+}
+.container{
+    display: flex;
+    background-color:#F6F4EB;
+   color:red;
+   background: #141E30;  
+background: -webkit-linear-gradient(to left, #243B55, #141E30);  
+background: linear-gradient(to left, #243B55, #141E30); 
+    
+}
+.lists{
+    display:flex;
+   margin-top:30px;
+   color:red;
+ 
+}
+.right{
+
+    list-style-type: none;
+    margin-right: 20px;
+    color:red;
+
+}
+
+.ul{
+    margin-left: 1000px;
+    color:red;
+    
+}
+.listss{
+    display:flex;
+   margin-top:30px;
+   margin-left: 50px;
+    font-size: 20px;
+   color:#91C8E4;
+}
+.link{
+    color:#97FEED;
+}
+.head{
+    
+    font-size: 50px;
+    margin-left:40%;
+    background: #bdc3c7;  
+background: -webkit-linear-gradient(to left, #2c3e50, #bdc3c7); 
+background: linear-gradient(to left, #2c3e50, #bdc3c7); 
+box-shadow: 2px 5px #888888;
+}
+.container:hover{
+    background: #1D4350;  
+    background: -webkit-linear-gradient(to left, #A43931, #1D4350);  
+    background: linear-gradient(to left, #A43931, #1D4350);
+
+}
+.foot{
+    background-color: #2c3e50;
+    color:white;
+    display:flex;
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+}
+.anim{
+    background-color: black;
+}
+.hoome{
+    color:#97FEED;
+}
+.paragraph{
+    color:#F8F6F4;
+}
+.button{
+    color:black;
+}
+.input{
+    color:black;
+    width:50%;
+    height:20px;
+    font-size: 20px;
+}
+
+.input1{
+    color:black;
+    width:50%;
+    height:80px;
+    font-size: 15px;
+    margin-top: 10px;
+}
+.button{
+    background-color: #B2A4FF;
+    width: 80px;
+    height: 20px;
+    font-weight:bolder;
+    margin-top: 10px;
+}
+.posts{
+    background-color: white;
+    margin-bottom: 2px;
+   
+}
+.paragraphs{
+    margin-top: 2px;
+    background-color: white;
+    height:50px;
+}
+.composes{
+    color:#97FEED;
+    font-size: 50px;
+    background: white;  
+    width: 200px;
+    margin-bottom: 50px;
+    background: #4CA1AF;  
+background: -webkit-linear-gradient(to right, #C4E0E5, #4CA1AF);  
+background: linear-gradient(to right, #C4E0E5, #4CA1AF); 
+  
+}
+.postss{
+    font-size: 50px;
+    background: #bdc3c7;  
+    width: 200px;
+    margin-bottom: 50px;
+    background: #4CA1AF;  
+background: -webkit-linear-gradient(to right, #C4E0E5, #4CA1AF);  
+background: linear-gradient(to right, #C4E0E5, #4CA1AF); 
+text-decoration: none;
+
+ 
+}
